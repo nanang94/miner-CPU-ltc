@@ -1,0 +1,2 @@
+# miner-CPU-ltc
+LTC
